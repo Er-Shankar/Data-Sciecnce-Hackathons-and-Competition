@@ -1,4 +1,5 @@
-##Epsilon 2.0 – The online data science and analytics case study competition, organized by Nucleus, The Analytics Society of SSCBS.
+## Epsilon 2.0 – The online data science and analytics case study competition, organized by Nucleus, The Analytics Society of SSCBS.
+
 **Target Industry** - Banking and Financial Services
 
 Banks have diverse sources of revenue. These sources can be classified into non-interest sources and interest sources. 
