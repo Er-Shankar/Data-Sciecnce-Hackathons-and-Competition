@@ -45,4 +45,7 @@ The function Score (L_i, L_j) will reward correct nuanced clustering and penaliz
 
 The overall score will be the average score across clusters given by:
 ![image](https://hrcdn.net/s3_pub/hr-assets/0/1570184758-d4148f7939-TotalScore.PNG)
+
 Where k is the number of clusters into which the number of dataset has been divided.
+
+**Selected in onsite finalist round among 500+ participants**
